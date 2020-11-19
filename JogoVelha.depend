@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1604456593 source:c:\users\joão\desktop\jogovelha\main.c
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1604509535 source:c:\users\caninde\desktop\jogovelha\main.c
+	<allegro5/allegro.h>
+
+1605553483 source:c:\users\caninde\desktop\jogovelha\main.cpp
+	"game.h"
+
+1604927823 c:\users\caninde\desktop\jogovelha\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1604927582 source:c:\users\caninde\desktop\jogovelha\button.cpp
+	"button.h"
+
+1605553189 source:c:\users\caninde\desktop\jogovelha\game.cpp
+	"game.h"
+
+1605551686 c:\users\caninde\desktop\jogovelha\game.h
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<stdio.h>
+	<string>
+	<sstream>
+
